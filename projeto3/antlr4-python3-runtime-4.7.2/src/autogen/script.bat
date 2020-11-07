@@ -1,0 +1,1 @@
+java -jar antlr-4.7.2-complete.jar -Dlanguage=Python3 grammars/Grammar.g4 -visitor -no-listener
